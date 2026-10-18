@@ -1,4 +1,4 @@
-package literal_string;
+package praktikum_1.literal_string;
 public class literal_string {
 
     public static void main(String[] args) {
